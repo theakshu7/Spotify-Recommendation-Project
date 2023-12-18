@@ -1,8 +1,3 @@
-# Team-Apple-Music
-CSE 5914 Spotify Project
-
-This is our team's project.
-
 ## Spotify Song Traits Descriptions:
 Taken from https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features
 

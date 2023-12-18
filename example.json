@@ -1,0 +1,20 @@
+[
+    {
+        "_op_type": "index",
+        "_index": "newsgroups",
+        "title": "some title 1",
+        "doc": "some content 1"
+    },
+    {
+        "_op_type": "index",
+        "_index": "newsgroups",
+        "title": "some title 2",
+        "doc": "some content 2"
+    },
+    {
+        "_op_type": "index",
+        "_index": "newsgroups",
+        "title": "some title 3",
+        "doc": "some content 3"
+    }
+]
